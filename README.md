@@ -2,7 +2,7 @@
 Pac-Man reimplementation in Python 3 through pygame library for university programming course.<br>
 <ul>
   <li>Single level fully working with power-ups and bonus points. </li>
-  <li>Two ghosts intelligence modes: patrol corners and chase Pac-Man.</li>
+  <li>Three ghosts intelligence modes: chase, scatter and frightened</li>
 </ul>
 
 <b>Dependencies</b>
