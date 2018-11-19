@@ -1,4 +1,4 @@
-# pacman
+# Pac-Man
 Pac-Man reimplementation in Python 3 through pygame library for university programming course.<br>
 <ul>
   <li>Single level fully working with power-ups and bonus points. </li>
@@ -12,3 +12,5 @@ Pac-Man reimplementation in Python 3 through pygame library for university progr
 </ul>
 <br>
 To play launch pacman_game.py and use directional arrows to move.
+<br>
+Developed in collaboration with <a href="https://github.com/franksacco">franksacco</a>
